@@ -1,0 +1,12 @@
+"use strict";
+let userName = 'Muhydeen';
+console.log(userName);
+let a = 12;
+let b = 6;
+let c = 8;
+console.log(a / b);
+console.log(c * b);
+let newnam = "ggfgg";
+let newMan;
+newMan = false;
+newMan = "gfhghh";
